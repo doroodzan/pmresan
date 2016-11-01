@@ -283,7 +283,7 @@ function run(msg)
 			else
 				infotxts = ""
 			end
-			bioinfo = infotxts.."*Name:* "..sudo_name.."\n*Username:* [@"..sudo_user.."](https://telegram.me/"..sudo_user..")\n*Mobile:* +"..sudo_num.."\n*Telegram ID:* "..sudo_id.."\n*Channel:* [@"..sudo_ch.."](https://telegram.me/"..sudo_ch..")\n\n_Powered by_ [Umbrella Team](https://telegram.me/umbrellateam)"
+			bioinfo = infotxts.."*Name:* "..sudo_name.."\n*Username:* [@"..sudo_user.."](https://telegram.me/"..sudo_user..")\n*Mobile:* +"..sudo_num.."\n*Telegram ID:* "..sudo_id.."\n*Channel:* [@"..sudo_ch.."](https://telegram.me/"..sudo_ch..")\n\n_Powered by_ [Webmagonline](https://telegram.me/Webmagonline)"
 			send_msg(msg.chat.id, bioinfo, true)
 			local f = io.open("./avatar.webp")
 			if f then
