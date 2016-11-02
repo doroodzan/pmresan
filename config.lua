@@ -1,4 +1,4 @@
-bot_token = "270104566:AAFBjY4nkVIc-_KvgVqpQdCcZ0Jjqft0sVk"
+bot_token = "token"
 send_api = "https://api.telegram.org/bot"..bot_token
 bot_version = "6.0"
 sudo_name = "Engineer Matin"
