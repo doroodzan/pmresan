@@ -17,6 +17,6 @@ sudo luarocks install serpent
 
 و در اخر
 
-lua bot.lua
+screen lua bot.lua
 </pre>
 موفق باشید
