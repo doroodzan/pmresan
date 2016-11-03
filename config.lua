@@ -1,9 +1,9 @@
-bot_token = "token"
+bot_token = "3c:47:11:75:1c:a9"
 send_api = "https://api.telegram.org/bot"..bot_token
 bot_version = "6.0"
-sudo_name = "Engineer Matin"
-sudo_id = 231944587
-admingp = -154017155
-sudo_num = "+79685998194"
-sudo_user = "MrDoctoriQ"
-sudo_ch = "Webmagonline"
+sudo_name = "HoseinNajafi"
+sudo_id = 252435157
+admingp = -140793792
+sudo_num = "+79645683257"
+sudo_user = "hoseinnajafinm"
+sudo_ch = "kolbeyeroman"
