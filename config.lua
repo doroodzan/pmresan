@@ -1,9 +1,9 @@
-bot_token = "238769822:AAHSmsZeysvyCF0v8yh9LVTcRZLks3a5cpI"
+bot_token = "329668285:AAFBcO2l55pIuSVq2AKxQ099lkfa6FcX0HA"
 send_api = "https://api.telegram.org/bot"..bot_token
 bot_version = "6.0"
-sudo_name = "HoseinNajafi"
-sudo_id = 252435157
-admingp = -140793792
-sudo_num = "+79645683257"
-sudo_user = "hoseinnajafinm"
-sudo_ch = "kolbeyeroman"
+sudo_name = "varozh"
+sudo_id = 231944587
+admingp = -188024744
+sudo_num = "+79685998194"
+sudo_user = "varozh"
+sudo_ch = "DragonSec"
